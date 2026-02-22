@@ -1,4 +1,4 @@
-# 🏆 Projeto Atleta - DEVstart SENAI
+# 🏆 Projeto Dados Atleta - DEVstart SENAI
 
 ## 📌 Resumo do Projeto
 
