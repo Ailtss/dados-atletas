@@ -7,14 +7,13 @@ Este projeto consiste no desenvolvimento de uma aplicação em
 parâmetros importantes e exibi-los ao usuário.
 
 A aplicação foi desenvolvida como parte do curso **DEVstart - SENAI**,
-dando continuidade ao projeto anterior de certificação.
+utilizando informações do projeto anterior de certificação.
 
 ------------------------------------------------------------------------
 
 ## 📖 Introdução
 
-Após o sucesso do projeto anterior, os organizadores da competição
-solicitaram uma nova solução utilizando **JavaScript**.
+Os organizadores solicitaram uma nova solução utilizando **JavaScript**.
 
 O objetivo é criar um software capaz de:
 
@@ -124,7 +123,7 @@ Metodologia baseada no Projeto de Certificação 1.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor - Ailton Gabriel
 
 Projeto desenvolvido como parte do curso **DEVstart - SENAI**.
 
